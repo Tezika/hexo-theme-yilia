@@ -6,10 +6,9 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/Tezika"
+  weibo: "http://www.weibo.com/2970804137/profile?topnav=1&wvr=6&is_all=1"
+  zhihu: "https://www.zhihu.com/people/zhou-feng-kai-49"
   #douban: "#"
   #mail: "#"
   #facebook: "#"
@@ -61,3 +60,5 @@ friends:
 #aboutme: false
 #开启——
 aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
+
+
