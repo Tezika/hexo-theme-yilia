@@ -1,15 +1,13 @@
-# Header
 menu:
   主页: /
   所有文章: /archives
-  # 随笔: /tags/随笔
 
 # SubNav
 subnav:
   github: "https://github.com/Tezika"
-  weibo: "http://www.weibo.com/2970804137/profile?topnav=1&wvr=6&is_all=1"
-  zhihu: "https://www.zhihu.com/people/zhou-feng-kai-49"
-  #douban: "#"
+  weibo: "http://www.weibo.com/2970804137/profile?topnav=1&wvr=6"
+  zhihu: "http://www.zhihu.com/people/zhou-feng-kai-49"
+  douban: "http://www.douban.com/people/120503563/"
   #mail: "#"
   #facebook: "#"
   #google: "#"
@@ -31,10 +29,9 @@ open_in_new: false
 
 # Miscellaneous
 google_analytics: ''
-favicon: /favicon.png
-
 #你的头像url
-avatar: 
+favicon: /favicon.png
+avatar: "http://i4.tietuku.com/c787f7ee63d21af7.jpg"
 #是否开启分享
 share: true
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
@@ -48,17 +45,13 @@ tagcloud: true
 #friends: false
 #开启——
 friends:
-  奥巴马的博客: http://localhost:4000/
-  卡卡的美丽传说: http://localhost:4000/
-  本泽马的博客: http://localhost:4000/
-  吉格斯的博客: http://localhost:4000/
-  习大大大不同: http://localhost:4000/
-  托蒂的博客: http://localhost:4000/
+  CocoaChina: http://www.cocoachina.com/
+  知乎: http://www.zhihu.com/
+  Cocos: http://cn.cocos2d-x.org/
+  IndieAce: http://www.indieace.com/portal.php
 
 #是否开启“关于我”。
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
-
-
+aboutme: Game programmer | Gamer :)
